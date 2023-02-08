@@ -29,14 +29,14 @@ setup(
     url="https://github.com/bogireddytejareddy/VUS",
     entry_points={},
     install_requires=[
-        "arch==5.3.1",
-        "hurst==0.0.5",
-        "matplotlib==3.5.3",
-        "numpy==1.21.6",
-        "pandas==1.3.5",
-        "scikit-learn==0.22",
-        "scipy==1.7.3",
-        "statsmodels==0.13.2",
-        "tsfresh==0.8.1"
+        "arch>=5.3.1",
+        "hurst>=0.0.5",
+        "matplotlib>=3.5.3",
+        "numpy>=1.21.6",
+        "pandas>=1.3.5",
+        "scikit-learn>=0.22",
+        "scipy>=1.7.3",
+        "statsmodels>=0.13.2",
+        "tsfresh>=0.8.1"
         ]
 )
